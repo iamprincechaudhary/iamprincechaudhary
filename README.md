@@ -3,11 +3,11 @@
 <img align="right" alt="Programming" width="500" src="https://shorturl.at/goxJL">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princechaudhary874&label=Profile%20views&color=0e75b6&style=flat" alt="princechaudhary874" /> </p>
 
-- 🌱 I’m currently learning **Java Full Stack Development**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/princechaudhary874](https://github.com/princechaudhary874)
 
-- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,REACT,JAVA,SWING,C**
+- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,REACT,JAVA,SWING,C**,FLUTTER,DART,FIGMA,FIREBASE,BOC
 
 - 📫 How to reach me **princechaudhary0001001@gmail.com**
 
