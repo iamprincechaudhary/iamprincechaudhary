@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/princechaudhary874](https://github.com/princechaudhary874)
 
-- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,REACT,JAVA,SWING,C**,FLUTTER,DART,FIGMA,FIREBASE,BOC
+- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,REACT,JAVA,SWING,C**,FLUTTER,DART,FIGMA,FIREBASE,BLOC
 
 - 📫 How to reach me **princechaudhary0001001@gmail.com**
 
