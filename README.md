@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princechaudhary874&show_icons=true&locale=en" alt="princechaudhary874" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princechaudhary874&" alt="princechaudhary874" /></p>
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
