@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/princechaudhary874](https://github.com/princechaudhary874)
+- 👨‍💻 All of my projects are available at [https://github.com/iamprincechaudhary](https://github.com/iamprincechaudhary)
 
 - 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,REACT,JAVA,SWING,C,FLUTTER,DART,FIGMA,FIREBASE,PROVIDER**
 
-- 📫 How to reach me **princechaudhary0001001@gmail.com**
+- 📫 How to reach me **prince1905tech@gmail.com**
 
 - ⚡ Fun fact **"Always grinning, sunshine spreader!"**
 
