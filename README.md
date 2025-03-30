@@ -3,7 +3,7 @@
 <img align="right" alt="Programming" width="500" src="https://t3.ftcdn.net/jpg/05/56/29/10/360_F_556291020_q2ieMiOCKYbtoLITrnt7qcSL1LJYyWrU.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princechaudhary874&label=Profile%20views&color=0e75b6&style=flat" alt="princechaudhary874" /> </p>
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently working as **Freelancer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamprincechaudhary](https://github.com/iamprincechaudhary)
 
