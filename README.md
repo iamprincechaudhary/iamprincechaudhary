@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Prince+Chaudhary;Tech+Enthusiast;DevOps+%7C+QA+%7C+Full+Stack;Always+Learning+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Prince+Chaudhary;Tech+Enthusiast;Full+Stack+%7C+QA+%7C+Devops;Always+Learning+%F0%9F%9A%80"
   />
 </h1>
 
@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 - 🌱 Working as **Freelancer**
 - 🔥 Passionate **Tech Enthusiast**
-- ⚙️ Focused on **DevOps, QA Automation & Full Stack**
+- ⚙️ Focused on **, Full Stack, QA Automation & Devops**
 - 🧠 Solving real-world engineering problems
 - 📫 Reach me at **prince1905tech@gmail.com**
 - ⚡ Fun fact: *Always grinning, sunshine spreader*
